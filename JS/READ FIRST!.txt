@@ -1,0 +1,36 @@
+=====================================================
+CRUD LESSON! (JAVASCRIPT VERSION)
+AUTHOR: erlangftsiesta
+VER: 1.0.0
+=====================================================
+Step:
+
+1st Step: 
+-Unduh NodeJS ke Komputer anda : "https://nodejs.org/en/download"
+-Pilih Versi berapapun
+-Install
+
+-Buka XAMPP (Wajib memiliki)
+-Nyalakan Module "Apache" dan "MySQL" (Turn ON atau Start)
+-Buka Browser dan copy tulisan ini ke Omnibox (Bukan Search Bar) " http://localhost/phpmyadmin/ "
+-Buka Menu "Import" di MySQL
+-Import File "rpl3 (01).sql" yang ada didalam folder JS.
+-Import (scroll ke paling bawah halaman MySQL)
+-Refresh.
+
+2nd Step:
+-Buka Folder yang sudah diclone / didownload dengan visual studio (jika tidak tau pelajari cara membuka folder dengan VSC)
+-Klik CTRL+J di keyboard untuk membuka toogle menu
+-ketik " npm init"
+-Enter Enter Enter terus hingga console menuliskan " Is this OK? ". 
+-Enter
+-ketik atau copy ini "npm i mysql express ejs"
+-jika sudah, ketik " node app.js "
+-pastikan console memberikan respon : "Woi Konek dah konek"
+
+3rd Step:
+-Buka browser dan copy ini " http://localhost:8004/data-absensi-rpl3 "
+
+Selamat bermain-main dengan database mu!
+
+Efts12-
